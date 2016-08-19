@@ -3,7 +3,7 @@
 
 En las siguientes lineas se detallan los pasos a seguir para el uso de este repositorio.
 
-Hay dos tres maneras diferentes de usarlo, y es a gusto del consumidor
+Hay tres maneras diferentes de usarlo, y es a gusto del consumidor
 1. Descargar archivos directamente e instalarlos en carpeta personal
 2. Clonar repositorio usando git: 
  * Linux: escribir en consola git clone https://github.com/diegoax/ALN-2016
