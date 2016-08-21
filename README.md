@@ -1,5 +1,23 @@
 # Curso de Álgebra Lineal Numérica 2016
-## Centro de Matemática, Facultad de Ciencias, UdelaR.
+## Centro de Matemática, Facultad de Ciencias, Univsersidad de la República.
+
+### Docentes: 
+* [Diego Armentano](http://www.cmat.edu.uy/~diego/), ([Centro de Matemática](http://www.cmat.edu.uy/cmat))
+* [Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mve) ([Centro Universitario Regional del Este](http://www.cure.edu.uy/))
+
+### Descripción:
+El álgebra lineal numérica es una de las áreas de la matemática con mayor impacto en otras ciencias, y en particular en el mundo del desarrollo científico-tecnológico. Más allá de las aplicaciones, el álgebra lineal numérica se ha transformado en un área fundamental de estudio en matemática. Además, es un área sumamente elegante e interesante debido a estar cargada de buenas y potentes ideas, las cuales difícilmente puedan abordarse en los cursos básicos de álgebra lineal. Aunque el título no lo sugiera, en realidad, el curso álgebra lineal numérica es un curso de análisis funcional con énfasis en ideas algorítmicas. Durante el curso se realizarán varias actividades prácticas en el lenguaje de programación científica Julia (www.julialang.org). Para tal fin al inicio del curso se realizará un mini-curso para utilizar este lenguaje. (No se requiere conocimientos previos de programación.)
+
+### Temas del Curso:
+Fundamentos y repaso de álgebra lineal; descomposición QR; estabilidad y
+condicionamiento; sistemas de ecuaciones; valores propios; métodos iterativos.
+
+### Bibliografía:
+* L. Trefethen, D. Bau : Numerical linear algebra ,SIAM: Society for Industrial and
+Applied Mathematics; null edition (1997).
+* J. Demmel: Applied numerical linear algebra, ,SIAM: Society for Industrial and
+Applied Mathematics; null edition (1997).
+* J-P Dedieu, L. Amodei: Analyse numérique matricielle, Dunod, Science Sup, (2008).
 
 ### Instalación de repositorio
 
