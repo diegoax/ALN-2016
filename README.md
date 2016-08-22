@@ -50,8 +50,7 @@ En las siguientes lineas se detalla como instalarlo.
 1. Abrir consola con Julia activo
 
 2. Escribir en consola 
-  * `Pkg.add("IJulia")`
-  * `Pkg.add("PyPlot")` (en caso de no tenerlo)
+  * `Pkg.add("IJulia")` (en caso de no tenerlo)
 
 3. Para correr Ijulia se ejecuta en consola de Julia lo siguiente:
   * `using IJulia`
