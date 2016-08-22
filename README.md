@@ -29,7 +29,8 @@ Hay tres maneras diferentes de usarlo, y es a gusto del consumidor
 
 2. Clonar repositorio usando git: 
 
- * Linux: escribir en consola git clone https://github.com/diegoax/ALN-2016
+ * Linux: escribir en consola 
+ `git clone https://github.com/diegoax/ALN-2016`
  * En windows instalar [GitHub Desktop](https://desktop.github.com/) y clonar repositorio
 
 3. Cargar repositorio a Juliabox: 
