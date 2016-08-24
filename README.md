@@ -1,5 +1,9 @@
 # Curso de Álgebra Lineal Numérica 2016
+<<<<<<< HEAD
 ## Centro de Matemática, Facultad de Ciencias, Universidad de la República.
+=======
+## Centro de Matemática, Facultad de Ciencias, UnivEersidad de la República.
+>>>>>>> testing
 
 ### Docentes: 
 * [Diego Armentano](http://www.cmat.edu.uy/~diego/), ([Centro de Matemática](http://www.cmat.edu.uy/cmat))
