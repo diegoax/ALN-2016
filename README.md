@@ -1,4 +1,5 @@
-# Curso de Álgebra Lineal Numérica 2016
+# Curso de Álgebra Lineal Numérica (2016) 
+
 ## Centro de Matemática, Facultad de Ciencias, Universidad de la República.
 
 ### Docentes: 
@@ -6,7 +7,7 @@
 * [Mauricio Velasco](http://wwwprof.uniandes.edu.co/~mve) ([Centro Universitario Regional del Este](http://www.cure.edu.uy/))
 
 ### Descripción:
-El álgebra lineal numérica es una de las áreas de la matemática con mayor impacto en otras ciencias, y en particular en el mundo del desarrollo científico-tecnológico. Más allá de las aplicaciones, el álgebra lineal numérica se ha transformado en un área fundamental de estudio en matemática. Además, es un área sumamente elegante e interesante debido a estar cargada de buenas y potentes ideas, las cuales difícilmente puedan abordarse en los cursos básicos de álgebra lineal. Aunque el título no lo sugiera, en realidad, el curso álgebra lineal numérica es un curso de análisis funcional con énfasis en ideas algorítmicas. Durante el curso se realizarán varias actividades prácticas en el lenguaje de programación científica Julia (www.julialang.org). Para tal fin al inicio del curso se realizará un mini-curso para utilizar este lenguaje. (No se requiere conocimientos previos de programación.)
+El álgebra lineal numérica es una de las áreas de la matemática con mayor impacto en otras ciencias, y en particular en el mundo del desarrollo científico-tecnológico. Más allá de las aplicaciones, el álgebra lineal numérica se ha transformado en un área fundamental de estudio en matemática. Además, es un área sumamente elegante e interesante debido a estar cargada de buenas y potentes ideas, las cuales difícilmente puedan abordarse en los cursos básicos de álgebra lineal. Aunque el título no lo sugiera, en realidad, el curso álgebra lineal numérica es un curso de análisis funcional con énfasis en ideas algorítmicas. Durante el curso se realizarán varias actividades prácticas en el lenguaje de programación científica Julia (www.julialang.com). Para tal fin al inicio del curso se realizará un mini-curso para utilizar este lenguaje. (No se requiere conocimientos previos de programación.)
 
 ### Temas del Curso:
 Fundamentos y repaso de álgebra lineal; descomposición QR; estabilidad y
@@ -34,7 +35,7 @@ Hay tres maneras diferentes de usarlo, y es a gusto del consumidor
  * En windows instalar [GitHub Desktop](https://desktop.github.com/) y clonar repositorio
 
 3. Cargar repositorio a Juliabox: 
- * Ir a la pestaña __Sync__ de[JuliaBox](https://juliabox.org/):,
+ * Ir a la pestaña __Sync__ de[JuliaBox](https://juliabox.com/):,
  * En git Repositories, en __Git Clone URL__ escribir `https://github.com/diegoax/ALN-2016/`
  * en __Branch__ escribir `master`
  * escribir en __JuliaBox Folder__ dice `ALN-2016`
