@@ -35,7 +35,7 @@ Hay tres maneras diferentes de usarlo, y es a gusto del consumidor
  * En windows instalar [GitHub Desktop](https://desktop.github.com/) y clonar repositorio
 
 3. Cargar repositorio a Juliabox: 
- * Ir a la pestaña __Sync__ de[JuliaBox](https://juliabox.com/):,
+ * Ir a la pestaña __Sync__ de [JuliaBox](https://juliabox.com/):,
  * En git Repositories, en __Git Clone URL__ escribir `https://github.com/diegoax/ALN-2016/`
  * en __Branch__ escribir `master`
  * escribir en __JuliaBox Folder__ dice `ALN-2016`
